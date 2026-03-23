@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="JobMate_Logo.png" alt="JobMate Logo" width="500"/>
+  <img src="JobMate_Logo.png" alt="JobMate Logo" width="300"/>
 </p>
 
 <!-- Title Banner -->
